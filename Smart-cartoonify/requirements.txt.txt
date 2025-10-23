@@ -1,0 +1,9 @@
+streamlit
+opencv-python
+numpy
+Pillow
+matplotlib
+imageio
+tensorflow>=2.9          # for TF Hub model inference (no training)
+tensorflow-hub
+scikit-image             # for ssim
