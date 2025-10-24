@@ -1,9 +1,10 @@
 streamlit
-opencv-python
+opencv-python-headless
 numpy
-Pillow
+pillow
 matplotlib
 imageio
-tensorflow>=2.9          # for TF Hub model inference (no training)
+tensorflow
 tensorflow-hub
-scikit-image             # for ssim
+tf-keras
+scikit-image
